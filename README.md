@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I’m Gabrriel Farrar.
 
-<!--
-**P1uto264/P1uto264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a cybersecurity-focused developer building practical skills in
+ethical hacking, scripting, and Linux-based environments.
 
-Here are some ideas to get you started:
+My current focus includes JavaScript and Python for automation,
+command-line workflows using Bash and PowerShell, and understanding
+systems from a defensive security perspective.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I prefer learning by building and testing tools in controlled
+environments, documenting what I learn, and improving through
+iteration.
+
+I am working toward a junior security analyst or SOC role and am
+interested in opportunities where I can continue developing real-world
+security skills while contributing to defensive security efforts.
