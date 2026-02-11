@@ -1,4 +1,4 @@
-Hi, I’m Gabrriel Farrar.
+Hi, I’m P1uto264.
 
 I am a cybersecurity-focused developer building practical skills in
 ethical hacking, scripting, and Linux-based environments.
