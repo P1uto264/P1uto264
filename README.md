@@ -11,6 +11,5 @@ I prefer learning by building and testing tools in controlled
 environments, documenting what I learn, and improving through
 iteration.
 
-I am working toward a junior security analyst or SOC role and am
-interested in opportunities where I can continue developing real-world
+I am interested in opportunities where I can continue developing real-world
 security skills while contributing to defensive security efforts.
