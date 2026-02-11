@@ -1,15 +1,12 @@
-Hi, I’m P1uto264.
+Entry-level IT and cybersecurity learner with a strong interest in
+systems, scripting, and Linux-based environments.
 
-I am a cybersecurity-focused developer building practical skills in
-ethical hacking, scripting, and Linux-based environments.
+Currently learning JavaScript and Python, using the command line for
+daily tasks, and building small scripts to automate and better
+understand how systems work.
 
-My current focus includes JavaScript and Python for automation,
-command-line workflows using Bash and PowerShell, and understanding
-systems from a defensive security perspective.
+I focus on learning fundamentals, documenting what I build, and gaining
+hands-on experience through labs and personal projects.
 
-I prefer learning by building and testing tools in controlled
-environments, documenting what I learn, and improving through
-iteration.
-
-I am interested in opportunities where I can continue developing real-world
-security skills while contributing to defensive security efforts.
+My goal is to start in an IT support or help desk role and grow toward
+security-focused positions as I gain real-world experience.
